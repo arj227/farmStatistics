@@ -1,6 +1,6 @@
 {
-    "image": "/images/image-01-Overview.jpg",
-    "refresh" : {"sec": 15, "URL" : "/images/image-01-Overview.jpg"},
+    "image": "/arj227/farmStatistics/main/images/image-01-Overview.jpg",
+    "refresh" : {"sec": 15, "URL" : "/arj227/farmStatistics/main/images/image-01-Overview.jpg"},
     "buttons": 
     [
         {
@@ -12,7 +12,7 @@
             "x": 273,
             "y": 442
         },
-        "URL": "/json/02-Pigs.json"
+        "URL": "/arj227/farmStatistics/main/json/02-Pigs.json"
         },
 
         {
@@ -24,7 +24,7 @@
             "x": 515,
             "y": 443
         },
-        "URL": "/json/03-Cattle.json"
+        "URL": "/arj227/farmStatistics/main/json/03-Cattle.json"
         },
 
         {
@@ -36,7 +36,7 @@
             "x": 760,
             "y": 441
         },
-        "URL": "/json/04-Chickens.json"
+        "URL": "/arj227/farmStatistics/main/json/04-Chickens.json"
         }
     ]
 }

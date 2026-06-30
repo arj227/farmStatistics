@@ -1,7 +1,7 @@
 
 {
-    "image": "/images/image-03-Cattle.jpg",
-    "refresh" : {"sec": 15, "URL" : "/images/image-01-Overview.jpg"},
+    "image": "/arj227/farmStatistics/main/images/image-03-Cattle.jpg",
+    "refresh" : {"sec": 15, "URL" : "/arj227/farmStatistics/main/images/image-01-Overview.jpg"},
     "buttons": 
     [
         {
@@ -13,7 +13,7 @@
             "x": 800,
             "y": 480
         },
-        "URL": "/json/01-Overview.json"
+        "URL": "/arj227/farmStatistics/main/json/01-Overview.json"
         } 
     ]
 }
