@@ -1,0 +1,42 @@
+{
+    "image": "/images/image-01-Overview.jpg",
+    "refresh" : {"sec": 15, "URL" : "/images/image-01-Overview.jpg"},
+    "buttons": 
+    [
+        {
+        "PointA": {
+            "x": 37,
+            "y": 107
+        },
+        "PointB": {
+            "x": 273,
+            "y": 442
+        },
+        "URL": "/json/02-Pigs.json"
+        },
+
+        {
+        "PointA": {
+            "x": 288,
+            "y": 108
+        },
+        "PointB": {
+            "x": 515,
+            "y": 443
+        },
+        "URL": "/json/03-Cattle.json"
+        },
+
+        {
+        "PointA": {
+            "x": 532,
+            "y": 108
+        },
+        "PointB": {
+            "x": 760,
+            "y": 441
+        },
+        "URL": "/json/04-Chickens.json"
+        }
+    ]
+}

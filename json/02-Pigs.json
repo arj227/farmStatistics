@@ -1,0 +1,19 @@
+
+{
+    "image": "/images/image-02-Pigs.jpg",
+    "refresh" : {"sec": 15, "URL" : "/images/image-01-Overview.jpg"},
+    "buttons": 
+    [
+        {
+        "PointA": {
+            "x": 0,
+            "y": 0
+        },
+        "PointB": {
+            "x": 800,
+            "y": 480
+        },
+        "URL": "/json/01-Overview.json"
+        } 
+    ]
+}
