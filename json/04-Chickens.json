@@ -1,7 +1,7 @@
 
 {
     "image": "/arj227/farmStatistics/main/images/image-04-Chickens.jpg",
-    "refresh" : {"sec": 15, "URL" : "/arj227/farmStatistics/main/images/image-01-Overview.jpg"},
+    "refresh" : {"sec": 15, "URL" : "/arj227/farmStatistics/main/json/01-Overview.json"},
     "buttons": 
     [
         {
